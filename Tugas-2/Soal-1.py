@@ -60,7 +60,7 @@ def main():
             option = int(input())
         except:
             option = 4
-        
+        itteration_menu +=1
         clear_console()
         
         if option == 3:
